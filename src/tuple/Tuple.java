@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-abstract public class Tuple implements ISuggestable {
+abstract public class Tuple implements ICompletionProvider {
     private final List<TupleType> types;
     private final Map<String, Object> values = new HashMap<String, Object>();
 
@@ -54,14 +54,14 @@ abstract public class Tuple implements ISuggestable {
         return arg;
     }
 
-    public List<String> getSuggestions() {
+    public List<String> getCompletionList() {
         List<String> suggestions = new ArrayList<String>();
 
         for (TupleType type : types) {
             // .set("Name", only(String.class, "%"));
-            suggestions.add("set(\"" + type.name + "\", only(" + type.clazz.getSimpleName() + ".class, \"%\"))");
+            suggestions.add("set(\"" + type.name + "\", only(" + type.clazz.getSimpleName() + ".class, ))");
             // .get("Age").as(Integer.class);
-            suggestions.add("get(\"" + type.name + "\").as(" + type.clazz.getSimpleName() + ".class)%");
+            suggestions.add("get(\"" + type.name + "\").as(" + type.clazz.getSimpleName() + ".class)");
         }
 
         return suggestions;

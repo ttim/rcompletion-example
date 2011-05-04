@@ -12,6 +12,12 @@ public class Usages {
 
         human.get("Age").as(Integer.class); // suggest at human.get(
 
-        System.out.println(human.getSuggestions());
+        human.get("Surname").as(String.class);
+
+//        human.get
+
+        System.out.println(human.get("Surname").as(String.class));
+
+//        System.out.println(human.getSuggestions());
     }
 }

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KST.iml" filepath="$PROJECT_DIR$/KST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rcompletion-example.iml" filepath="$PROJECT_DIR$/rcompletion-example.iml" />
     </modules>
   </component>
 </project>
