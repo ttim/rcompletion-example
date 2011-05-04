@@ -7,6 +7,10 @@ public class DbExample {
         sqlCreator.from(Table2Scheme.class).select("table2");
         sqlCreator.from(Table1Scheme.class).select("Table1");
 
+        sqlCreator.from(Table1Scheme.class).select("bb");
+
+//        sqlCreator.from()
+
 //        Table1, Table2, Table3
 //        sqlCreator.table("tableName", TableNum.class) => TableNum
 

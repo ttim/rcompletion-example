@@ -59,6 +59,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="DbExample.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/db_sample/DbExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="0" selection-start="653" selection-end="653" vertical-scroll-proportion="0.3956044">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="DbScheme.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/db_sample/DbScheme.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,16 +80,7 @@
       <file leaf-file-name="DbSqlCreator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/db_sample/DbSqlCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="66" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Usages.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tuple/Usages.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="19" selection-start="484" selection-end="484" vertical-scroll-proportion="0.32025117">
+            <state line="25" column="50" selection-start="878" selection-end="878" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -107,7 +107,7 @@
       <file leaf-file-name="DbSqlSelector.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/db_sample/DbSqlSelector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="34" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0">
+            <state line="22" column="60" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -168,22 +168,25 @@
         <option value="$PROJECT_DIR$/src/db_sample/Table2.java" />
         <option value="$PROJECT_DIR$/src/db_sample/Table3.java" />
         <option value="$PROJECT_DIR$/src/db_sample/MyDb.java" />
-        <option value="$PROJECT_DIR$/src/db_sample/DbSqlSelector.java" />
         <option value="$PROJECT_DIR$/src/tuple/Tuple.java" />
-        <option value="$PROJECT_DIR$/src/db_sample/DbSqlCreator.java" />
         <option value="$PROJECT_DIR$/src/tuple/ICompletionProvider.java" />
-        <option value="$PROJECT_DIR$/src/db_sample/DbExample.java" />
         <option value="$PROJECT_DIR$/src/db_sample/DbScheme.java" />
         <option value="$PROJECT_DIR$/src/db_sample/MyDbScheme.java" />
         <option value="$PROJECT_DIR$/src/db_sample/Table1Scheme.java" />
         <option value="$PROJECT_DIR$/src/db_sample/Table2Scheme.java" />
         <option value="$PROJECT_DIR$/src/db_sample/TableScheme.java" />
         <option value="$PROJECT_DIR$/src/tuple/Usages.java" />
+        <option value="$PROJECT_DIR$/src/db_sample/DbSqlSelector.java" />
+        <option value="$PROJECT_DIR$/src/db_sample/DbExample.java" />
+        <option value="$PROJECT_DIR$/src/db_sample/DbSqlCreator.java" />
       </list>
     </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState />
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
   </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
@@ -215,9 +218,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Favorites" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -236,8 +236,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rcompletion-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rcompletion-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rcompletion-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rcompletion-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -412,24 +447,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="806" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997844" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32997844" sideWeight="0.0" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39905548" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32507288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3265306" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997844" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32997844" sideWeight="0.67346936" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32507288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32944608" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3265306" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -481,19 +516,9 @@
         <state line="5" column="97" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/db_sample/DbExample.java">
+    <entry file="file://$PROJECT_DIR$/src/tuple/Usages.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/db_sample/DbScheme.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/db_sample/DbSqlCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="66" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" />
+        <state line="17" column="19" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tuple/Human.java">
@@ -504,11 +529,6 @@
     <entry file="file://$PROJECT_DIR$/src/tuple/Tuple.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="56" column="41" selection-start="1466" selection-end="1483" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/db_sample/DbSqlSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="34" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/db_sample/MyDbScheme.java">
@@ -531,9 +551,30 @@
         <state line="7" column="0" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tuple/Usages.java">
+    <entry file="file://$PROJECT_DIR$/src/db_sample/DbSqlSelector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="19" selection-start="484" selection-end="484" vertical-scroll-proportion="0.32025117">
+        <state line="22" column="60" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/db_sample/DbSqlCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="50" selection-start="878" selection-end="878" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/db_sample/DbScheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/db_sample/DbExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="653" selection-end="653" vertical-scroll-proportion="0.3956044">
           <folding />
         </state>
       </provider>
@@ -541,12 +582,40 @@
   </component>
   <component name="masterDetails">
     <states>
-      <state key="Copyright.UI">
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
         <settings>
           <splitter-proportions />
         </settings>
       </state>
-      <state key="ScopeChooserConfigurable.UI">
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions />
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions />
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions />
         </settings>

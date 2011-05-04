@@ -5,13 +5,6 @@ import tuple.ICompletionProvider;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by IntelliJ IDEA.
- * User: ttim
- * Date: 4/28/11
- * Time: 7:56 PM
- * To change this template use File | Settings | File Templates.
- */
 public class DbSqlSelector<T extends TableScheme> implements ICompletionProvider {
     private String selectFrom, selectWhat;
 
@@ -27,9 +20,8 @@ public class DbSqlSelector<T extends TableScheme> implements ICompletionProvider
         return new DbSqlResult();
     }
 
-    public List<String> getCompletionList(Class genericClass) {
+    public List<String> getCompletionList(TableScheme scheme) {
         try {
-            TableScheme scheme = (TableScheme) genericClass.newInstance();
             List<String> result = new ArrayList<String>();
 
             for (String field : scheme.getFieldNames()) {
