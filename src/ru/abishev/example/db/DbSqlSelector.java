@@ -1,6 +1,6 @@
-package db_sample;
+package ru.abishev.example.db;
 
-import tuple.ICompletionProvider;
+import ru.abishev.example.tuple.ICompletionProvider;
 
 import java.util.ArrayList;
 import java.util.List;

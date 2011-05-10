@@ -1,4 +1,4 @@
-package tuple;
+package ru.abishev.example.tuple;
 
 import java.util.List;
 

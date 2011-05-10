@@ -1,4 +1,4 @@
-package db_sample;
+package ru.abishev.example.db;
 
 public interface TableScheme {
     public String getName();
