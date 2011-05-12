@@ -1,8 +1,8 @@
 package ru.abishev.example.groovy.third
 
-import ru.abishev.example.groovy.GoodCompletion
+import ru.abishev.example.groovy.VeryGoodCompletion
 
-@Mixin(GoodCompletion)
+@Mixin(VeryGoodCompletion)
 class School {
     String toString() {
         "School!"
