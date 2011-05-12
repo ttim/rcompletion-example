@@ -14,9 +14,8 @@ public class AppConfig extends Config {
                 registerRoute("/", "index", new DefaultController());
                 registerRoute("/users", "user-list", new DefaultController());
                 registerRoute("/user/:id", "user-view", new DefaultController());
-                registerRoute("/ad/:id", "ad-view", new DefaultController());
+//                registerRoute("/ad/:id", "ad-view", new DefaultController());9
             }
         };
-//        this.getClass().getClassLoader().
     }
 }

@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="groovy-1.8.0">
+    <CLASSES>
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/ant-1.8.2.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/ant-antlr-1.8.2.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/ant-junit-1.8.2.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/ant-launcher-1.8.2.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/antlr-2.7.7.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/asm-3.2.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/asm-analysis-3.2.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/asm-commons-3.2.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/asm-tree-3.2.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/asm-util-3.2.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/bsf-2.4.0.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/commons-cli-1.2.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/gpars-0.11.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/groovy-1.8.0.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/ivy-2.2.0.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/jansi-1.2.1.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/jline-0.9.94.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/jsp-api-2.0.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/jsr166y-070108.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/junit-4.8.2.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/servlet-api-2.4.jar!/" />
+      <root url="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/xstream-1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

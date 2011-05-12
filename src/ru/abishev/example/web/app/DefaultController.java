@@ -8,7 +8,9 @@ import ru.abishev.example.web.framework.*;
 public class DefaultController extends Controller {
     @Override
     public void process(Request request, Response response) {
-        response.redirectTo("user-list");
-//        response.re
+//        response.redirectTo
+//        response.redirectTo("user-view")
+//        response.redirectTo
+//        response.redirectTo
     }
 }

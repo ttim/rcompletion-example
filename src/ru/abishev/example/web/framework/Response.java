@@ -14,13 +14,8 @@ public class Response {
     public List<String> getCompletionList() {
         List<String> result = new ArrayList<String>();
 
-
-        try {
-            for (String routeName : Config.getAppConfig().getRouter().getRoutes()) {
-                result.add("redirectTo(\"" + routeName + "\")");
-            }
-        } catch (Exception e) {
-            result.add("!Exception " + e);
+        for (String routeName : Config.getAppConfig().getRouter().getRoutes()) {
+            result.add("redirectTo(\"" + routeName + "\")");
         }
 
         return result;

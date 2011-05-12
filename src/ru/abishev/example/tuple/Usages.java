@@ -17,6 +17,12 @@ public class Usages {
         human.get("Age").as(Integer.class);
         human.set("Name", only(String.class, "s"));
 
+
+
+//        human.ge
+
+//        human.se
+
 //        human.ge
 
 //        human.ge

@@ -12,4 +12,9 @@ public class Human extends Tuple {
             add(TupleType.of("Age", Integer.class));
         }};
     }
+
+    public static void main(String[] args) {
+        List<String> list = new ArrayList<String>();
+//        list.add
+    }
 }

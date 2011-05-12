@@ -7,8 +7,15 @@ public class DbExample {
 //        sqlCreator.from(CommentScheme.class).select("text");
         sqlCreator.from(UserScheme.class).select("email");
 
-
         sqlCreator.from(CommentScheme.class).select("parent_comment_id");
+
+//        sqlCreator.from(UserScheme.class).select("name")
+
+//        sql
+
+//        sqlCreator.from(CommentScheme.class).select
+
+//        sqlCreator.from(UserScheme.class).se
 
     }
 }

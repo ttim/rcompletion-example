@@ -19,6 +19,21 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/first/TestClass.java" line="12" class="ru.abishev.example.groovy.TestClass" package="ru.abishev.example.groovy">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_any>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -59,93 +74,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="UserScheme.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/db/UserScheme.java">
+      <file leaf-file-name="TestGroovyClass.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/first/TestGroovyClass.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="23" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0">
+            <state line="18" column="0" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Router.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/framework/Router.java">
+      <file leaf-file-name="NameChanging.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/second/NameChanging.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="22" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0">
+            <state line="14" column="83" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Controller.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/framework/Controller.java">
+      <file leaf-file-name="TestScript.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/second/TestScript.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="58" selection-start="180" selection-end="188" vertical-scroll-proportion="0.0">
+            <state line="4" column="24" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Request.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/framework/Request.java">
+      <file leaf-file-name="HTMLCodec.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/third/HTMLCodec.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="20" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Response.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/framework/Response.java">
+      <file leaf-file-name="Initializer.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/third/Initializer.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="41" selection-start="264" selection-end="281" vertical-scroll-proportion="0.0">
+            <state line="10" column="70" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppConfig.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/app/AppConfig.java">
+      <file leaf-file-name="School.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/third/School.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="36" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
+            <state line="18" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.5217391">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/app/DefaultController.java">
+      <file leaf-file-name="TestScript.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/third/TestScript.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="41" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
+            <state line="4" column="9" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassFinder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/framework/ClassFinder.java">
+      <file leaf-file-name="JavaTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/third/JavaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
+            <state line="8" column="5" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Config.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/framework/Config.java">
+      <file leaf-file-name="GoodCompletion.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/GoodCompletion.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="method#getAppConfig#0;class#Config#0" expanded="false" />
-              </folding>
+            <state line="6" column="23" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Human.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/tuple/Human.java">
+      <file leaf-file-name="TestClass.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/first/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="411" selection-end="411" vertical-scroll-proportion="0.4057971">
+            <state line="8" column="13" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -165,22 +178,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/db_sample/UserScheme.java" />
-        <option value="$PROJECT_DIR$/src/db_sample/CommentScheme.java" />
-        <option value="$PROJECT_DIR$/src/tuple/Tuple.java" />
-        <option value="$PROJECT_DIR$/src/tuple/Usages.java" />
-        <option value="$PROJECT_DIR$/src/db_sample/DbExample.java" />
-        <option value="$PROJECT_DIR$/src/ru/abishev/example/db/UserScheme.java" />
-        <option value="$PROJECT_DIR$/src/ru/abishev/example/web/Router.java" />
-        <option value="$PROJECT_DIR$/src/ru/abishev/example/web/framework/Router.java" />
-        <option value="$PROJECT_DIR$/src/ru/abishev/example/web/framework/classproviding/ClasspathClassFinder.java" />
-        <option value="$PROJECT_DIR$/src/ru/abishev/example/web/framework/Request.java" />
-        <option value="$PROJECT_DIR$/src/ru/abishev/example/web/framework/Controller.java" />
-        <option value="$PROJECT_DIR$/src/ru/abishev/example/web/framework/Response.java" />
-        <option value="$PROJECT_DIR$/src/ru/abishev/example/web/framework/ClassFinder.java" />
-        <option value="$PROJECT_DIR$/src/ru/abishev/example/web/framework/Config.java" />
-        <option value="$PROJECT_DIR$/src/ru/abishev/example/web/app/AppConfig.java" />
-        <option value="$PROJECT_DIR$/src/ru/abishev/example/web/app/DefaultController.java" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/tuple/Usages.java" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/db/DbExample.java" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/groovy/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/groovy/TestGroovyClass.groovy" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/groovy/GroovyMain.groovy" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/groovy/second/JavaTest.java" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/groovy/second/NameChanging.groovy" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/groovy/second/TestScript.groovy" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/groovy/Third.java" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/groovy/third/Initializer.java" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/groovy/third/HTMLCodec.groovy" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/groovy/third/TestScript.groovy" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/groovy/third/Initializer.groovy" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/groovy/third/School.groovy" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/groovy/third/JavaTest.java" />
+        <option value="$PROJECT_DIR$/src/ru/abishev/example/groovy/GoodCompletion.groovy" />
       </list>
     </option>
   </component>
@@ -193,6 +206,22 @@
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Inspections</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -220,6 +249,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -256,30 +288,127 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rcompletion-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rcompletion-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rcompletion-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rcompletion-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="third" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rcompletion-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rcompletion-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="second" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rcompletion-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rcompletion-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="OverrideImplement.combined" value="true" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.scala.compiler.ScalacConfigurable" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -290,7 +419,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DefaultController">
+  <component name="RunManager" selected="Application.JavaTest">
     <configuration default="false" name="Usages" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ru.abishev.example.tuple.Usages" />
       <option name="VM_PARAMETERS" />
@@ -331,6 +460,44 @@
     </configuration>
     <configuration default="false" name="DefaultController" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ru.abishev.example.web.app.DefaultController" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="rcompletion-example" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestClass" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ru.abishev.example.groovy.TestClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="rcompletion-example" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51414" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="JavaTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ru.abishev.example.groovy.third.JavaTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -419,10 +586,12 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Usages" />
       <item index="1" class="java.lang.String" itemvalue="Application.Yesy" />
       <item index="2" class="java.lang.String" itemvalue="Application.DefaultController" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestClass" />
+      <item index="4" class="java.lang.String" itemvalue="Application.JavaTest" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -455,13 +624,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="806" extended-state="0" />
+    <frame x="0" y="22" width="1440" height="806" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39905548" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39795917" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3265306" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -515,100 +684,84 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/tuple/ICompletionProvider.java">
+    <entry file="jar:///opt/local/var/macports/software/groovy/1.8.0_1/opt/local/share/java/groovy/lib/groovy-1.8.0.jar!/groovy/lang/GroovyObjectSupport.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="62" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" />
+        <state line="14" column="28" selection-start="573" selection-end="573" vertical-scroll-proportion="0.4318766" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/tuple/Tuple.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/first/GroovyMain.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="32" selection-start="1848" selection-end="1848" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/tuple/Usages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="658" selection-end="658" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/db/CommentScheme.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="63" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/db/DbExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="73" selection-start="378" selection-end="378" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/db/MyDbScheme.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="39" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/db/UserScheme.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="23" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/framework/ClassFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
+        <state line="3" column="9" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/framework/Controller.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/first/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="58" selection-start="180" selection-end="188" vertical-scroll-proportion="0.0">
+        <state line="8" column="13" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/framework/Request.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/first/TestGroovyClass.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="20" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0">
+        <state line="18" column="0" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/framework/Response.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/second/NameChanging.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="41" selection-start="264" selection-end="281" vertical-scroll-proportion="0.0">
+        <state line="14" column="83" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/framework/Router.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/second/TestScript.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/app/DefaultController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="41" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
+        <state line="4" column="24" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/app/AppConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/third/TestScript.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="36" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
+        <state line="4" column="9" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/web/framework/Config.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/third/Initializer.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="method#getAppConfig#0;class#Config#0" expanded="false" />
-          </folding>
+        <state line="10" column="70" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/tuple/Human.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/third/HTMLCodec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="411" selection-end="411" vertical-scroll-proportion="0.4057971">
+        <state line="2" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/third/JavaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/GoodCompletion.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="23" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/abishev/example/groovy/third/School.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.5217391">
           <folding />
         </state>
       </provider>
@@ -616,14 +769,77 @@
   </component>
   <component name="masterDetails">
     <states>
-      <state key="Copyright.UI">
+      <state key="ArtifactsStructureConfigurable.UI">
         <settings>
-          <splitter-proportions />
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
         </settings>
       </state>
-      <state key="ScopeChooserConfigurable.UI">
+      <state key="FacetStructureConfigurable.UI">
         <settings>
-          <splitter-proportions />
+          <last-edited>Scala (rcompletion-example)|Scala</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Unnamed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>rcompletion-example</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-1.8.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
         </settings>
       </state>
     </states>

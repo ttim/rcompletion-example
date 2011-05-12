@@ -61,7 +61,7 @@ abstract public class Tuple implements ICompletionProvider {
             // .set("Name", only(String.class, "%"));
             suggestions.add("set(\"" + type.name + "\", only(" + type.clazz.getSimpleName() + ".class, ))");
             // .get("Age").as(Integer.class);
-            suggestions.add("ge/t(\"" + type.name + "\").as(" + type.clazz.getSimpleName() + ".class)");
+            suggestions.add("get(\"" + type.name + "\").as(" + type.clazz.getSimpleName() + ".class)");
         }
 
         return suggestions;
