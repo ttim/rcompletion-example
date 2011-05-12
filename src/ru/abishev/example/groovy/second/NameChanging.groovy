@@ -1,19 +1,14 @@
 package ru.abishev.example.groovy.second
 
-import ru.abishev.example.groovy.GoodCompletion
+import ru.abishev.example.groovy.VeryGoodCompletion
 
-@Mixin(GoodCompletion)
+@Mixin(VeryGoodCompletion)
 class Person {
-    String name = "Fred"
-
-    def test() {
-        this.changeNameToAlice()
-    }
+    String role = "admin"
 
     static {
-        for (newName in ["Bob", "Alice", "Sergey"]) {
-            Person.metaClass."changeNameTo${newName}" = {-> delegate.name = newName }
+        for (newRole in ["admin", "user", "moderator"]) {
+            Person.metaClass."changeRoleTo${newRole.capitalize()}" = {-> delegate.role = newRole }
         }
     }
 }
-
