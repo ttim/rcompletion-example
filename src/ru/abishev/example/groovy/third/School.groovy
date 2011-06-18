@@ -9,7 +9,7 @@ class School {
     }
 
     def test() {
-        this.encodeAsHTML()
+//        this.encodeAsHTML()
     }
 
     static {
